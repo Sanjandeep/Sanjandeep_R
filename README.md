@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjandeep&label=Profile%20views&color=0e75b6&style=flat" alt="sanjandeep" /> </p>
 
-- 🔭 I’m currently working on **Robotics and Cybersecurity projects**
-
-- 🌱 I’m currently learning **Cloud Computing and Blockchain**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
