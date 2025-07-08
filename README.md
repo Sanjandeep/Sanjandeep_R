@@ -4,17 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjandeep&label=Profile%20views&color=0e75b6&style=flat" alt="sanjandeep" /> </p>
 
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+-  I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Advanced Python and AI**
+-  I’m looking for help with **Cybersecurity and AI**
 
-- 💬 Ask me about **Python, C++, Arduino, and Cybersecurity**
+-  Ask me about **Python, C++ and Arduino**
 
-- 📫 How to reach me **sanjandeep@example.com**
+-  How to reach me **sanjandeep7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://your-resume-link.com)
-
-- ⚡ Fun fact **I love building robots that can think!**
+-  Fun fact **I love building robots that can think!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
